@@ -15,4 +15,4 @@ the extracted content will end up in the same path where u got the pdf/image fro
 
 !currently its only focusing on the japanese vertical language but in the future ill also add more language.
 
-<h3>THIS IS STILL IN DEVELOPMENT</h3>
+<h3>THIS IS STILL IN DEVELOPMENT!</h3>
