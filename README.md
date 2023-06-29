@@ -5,7 +5,7 @@ a pdf and image text extractor in python
 # tutorial:
 enter the folder where you saved the project and open the terminal:
 
-then type: .\enviroment\Scripts\python.exe src/main.py 
+then type: .\enviroment\Scripts\python.exe src/main.py (for windows)
 
 itll ask you for the file path
 
